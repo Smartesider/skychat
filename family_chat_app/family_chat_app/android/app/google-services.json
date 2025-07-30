@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274330431602",
+    "project_id": "skychat-19b6b",
+    "storage_bucket": "skychat-19b6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274330431602:android:45e1c83e5c038f1424d2eb",
+        "android_client_info": {
+          "package_name": "com.kompetanseutleie.skychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274330431602-acg1gmfo82hvab5b7bh67unk3bu7t4eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_l20vlee-rS4hCEZ29biUQxWzg2FjAdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274330431602-acg1gmfo82hvab5b7bh67unk3bu7t4eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
